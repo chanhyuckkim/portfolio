@@ -13,13 +13,6 @@
   </a>
 </p>
 <br/>
-
-
-## :pushpin: Intro
-(여기에 자기 소개)
-
-</br>
-
 ## :pushpin: Contact
 - 이메일: 0624564326@naver.com
 - 블로그: 
