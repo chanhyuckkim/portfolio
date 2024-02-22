@@ -3,20 +3,11 @@
 
 </p>
 
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Notion">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
 
-  <a href="https://capsule-render.vercel.app/">
-    <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
 <br/>
 ## :pushpin: Contact
 - 이메일: 0624564326@naver.com
-- 블로그: 
-- 깃헙: https://github.com/chanhyuckkim
+- 노션: https://www.notion.so/2c5e0aca82d645819d5b947c71c4a904
 
 </br>
 
