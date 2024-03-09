@@ -13,6 +13,7 @@
 
 ## :pushpin: Projects
 ### 1. [클라우드기반 공통취미를 갖는 소모임 관리 플랫폼](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I)
+![image](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I/assets/149571615/b5568cb9-954d-4bb7-a8fc-a7a4c5a0528b)
 >개발 기간: 2023.11.22 ~ 2023.12.07  
 >  
 >기술 스택:  
