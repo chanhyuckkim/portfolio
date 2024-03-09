@@ -33,15 +33,12 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [AI기반 CCTV분석을 통한 맞춤 광고 제공 서비스](https://github.com/KIMGUUNI/A_EyeF)
+>개발 기간: 2024.02.01 ~ 2024.02.27  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+
+>[프로젝트 상세 설명](https://github.com/KIMGUUNI/A_EyeF) 참고
 
 ---
 
