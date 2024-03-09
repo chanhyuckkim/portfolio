@@ -34,6 +34,7 @@
 ---
 
 ### 2. [AI기반 CCTV분석을 통한 맞춤 광고 제공 서비스](https://github.com/KIMGUUNI/A_EyeF)
+<img src = "https://github.com/KIMGUUNI/A_EyeF/assets/142488051/b81fcb02-1485-4ef5-8a0f-ae98df7eb9b2" width="100%" height="100%">
 >개발 기간: 2024.02.01 ~ 2024.02.27  
 >  
 >기술 스택:  
