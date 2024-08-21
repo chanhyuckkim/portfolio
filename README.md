@@ -65,3 +65,5 @@
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+
+## 3. [LLM을 이용하여 제안서를 써주는 자동 프로그램]
