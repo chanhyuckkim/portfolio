@@ -12,25 +12,14 @@
 </br>
 
 ## :pushpin: Projects
-# 1. [클라우드기반 공통취미를 갖는 소모임 관리 플랫폼](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I)
-![image](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I/assets/149571615/b5568cb9-954d-4bb7-a8fc-a7a4c5a0528b)
->개발 기간: 2023.11.22 ~ 2023.12.07  
->  
->기술 스택:  
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![boot](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-><br>
->[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I) 참고
+
+# 1. [LLM활용 제안서 자동 작성 프로그램)
+![image](https://github.com/user-attachments/assets/09300da9-c044-4ceb-b81b-e3c5d69638c3)
+
+>개발 기간: 2024.07.16 ~ 2024.08.21  
+
+>[프로젝트 상세 설명](https://github.com/chanhyuckkim/KimChanhyuk/blob/main/README.md) 참고
+
 
 ---
 
@@ -56,11 +45,25 @@
 
 ---
 
-# 3. [LLM활용 제안서 자동 작성 프로그램)
-![image](https://github.com/user-attachments/assets/09300da9-c044-4ceb-b81b-e3c5d69638c3)
+# 1. [클라우드기반 공통취미를 갖는 소모임 관리 플랫폼](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I)
+![image](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I/assets/149571615/b5568cb9-954d-4bb7-a8fc-a7a4c5a0528b)
+>개발 기간: 2023.11.22 ~ 2023.12.07  
+>  
+>기술 스택:  
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![boot](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+><br>
+>[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I) 참고
 
->개발 기간: 2024.07.16 ~ 2024.08.21  
-
->[프로젝트 상세 설명](https://github.com/chanhyuckkim/KimChanhyuk/blob/main/README.md) 참고
-
+---
 
