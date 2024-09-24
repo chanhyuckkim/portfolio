@@ -23,6 +23,17 @@
 
 ---
 
+# 1. [LLM활용 STT/TTS를 활용한 디지털도슨트)
+![image](https://github.com/user-attachments/assets/09300da9-c044-4ceb-b81b-e3c5d69638c3)
+
+>개발 기간: 2024.07.16 ~ 2024.08.21  
+
+>[프로젝트 상세 설명](https://github.com/chanhyuckkim/KimChanhyuk/blob/main/README.md) 참고
+
+
+---
+
+
 # 2. [AI기반 CCTV분석을 통한 맞춤 광고 제공 서비스](https://github.com/KIMGUUNI/A_EyeF)
 <img src = "https://github.com/KIMGUUNI/A_EyeF/assets/142488051/b81fcb02-1485-4ef5-8a0f-ae98df7eb9b2" width="100%" height="100%">
 >개발 기간: 2024.02.01 ~ 2024.02.27  
