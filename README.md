@@ -27,12 +27,13 @@
 ---
 
 # 2. [LLM과STT/TTS를 활용한 AI 디지털도슨트]
-![image](https://github.com/chanhyuckkim/Aidocent/blob/main/README.md)
+![image](https://github.com/user-attachments/assets/9d3cb051-efe5-4408-b7fa-6117cab7563a)
+
 
 
 >개발 기간: 2024.07.16 ~ 2024.08.21  
 
->[프로젝트 상세 설명](https://github.com/chanhyuckkim/KimChanhyuk/blob/main/README.md) 참고
+>[프로젝트 상세 설명](https://github.com/chanhyuckkim/Aidocent/blob/main/README.md) 참고
 
 
 ---
