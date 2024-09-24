@@ -23,7 +23,7 @@
 
 ---
 
-# 1. [LLM활용 STT/TTS를 활용한 디지털도슨트)
+# 1. [LLM과STT/TTS를 활용한 AI 디지털도슨트)
 ![image](https://github.com/user-attachments/assets/09300da9-c044-4ceb-b81b-e3c5d69638c3)
 
 >개발 기간: 2024.07.16 ~ 2024.08.21  
