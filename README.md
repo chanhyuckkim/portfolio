@@ -8,7 +8,7 @@
 ## :pushpin: Contact
 - 이메일: 0624564326@naver.com
 - 노션: https://www.notion.so/2c5e0aca82d645819d5b947c71c4a904
-
+- 블로그 : https://notes0229.tistory.com/manage/posts?category=-3&page=1&searchKeyword=&searchType=title&visibility=all
 </br>
 
 ## :pushpin: Projects
