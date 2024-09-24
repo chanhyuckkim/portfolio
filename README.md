@@ -16,7 +16,7 @@
 
 ## :pushpin: Projects
 
-# 1. [LLM활용 제안서 자동 작성 프로그램)
+# 1. [LLM활용 제안서 자동 작성 프로그램]
 ![image](https://github.com/user-attachments/assets/09300da9-c044-4ceb-b81b-e3c5d69638c3)
 
 >개발 기간: 2024.07.16 ~ 2024.08.21  
@@ -26,8 +26,8 @@
 
 ---
 
-# 1. [LLM과STT/TTS를 활용한 AI 디지털도슨트)
-![image](https://github.com/user-attachments/assets/80b11710-617c-453a-a454-121511e6e01a)
+# 2. [LLM과STT/TTS를 활용한 AI 디지털도슨트]
+![image](https://github.com/chanhyuckkim/Aidocent/blob/main/README.md)
 
 
 >개발 기간: 2024.07.16 ~ 2024.08.21  
@@ -38,7 +38,7 @@
 ---
 
 
-# 2. [AI기반 CCTV분석을 통한 맞춤 광고 제공 서비스](https://github.com/KIMGUUNI/A_EyeF)
+# 3. [AI기반 CCTV분석을 통한 맞춤 광고 제공 서비스](https://github.com/KIMGUUNI/A_EyeF]
 <img src = "https://github.com/KIMGUUNI/A_EyeF/assets/142488051/b81fcb02-1485-4ef5-8a0f-ae98df7eb9b2" width="100%" height="100%">
 >개발 기간: 2024.02.01 ~ 2024.02.27  
 >  
@@ -60,7 +60,7 @@
 
 ---
 
-# 1. [클라우드기반 공통취미를 갖는 소모임 관리 플랫폼](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I)
+# 4. [클라우드기반 공통취미를 갖는 소모임 관리 플랫폼](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I]
 ![image](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I/assets/149571615/b5568cb9-954d-4bb7-a8fc-a7a4c5a0528b)
 >개발 기간: 2023.11.22 ~ 2023.12.07  
 >  
