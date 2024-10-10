@@ -11,7 +11,7 @@
 </br>
 - 노션: https://www.notion.so/2c5e0aca82d645819d5b947c71c4a904
 </br>
-- 블로그 : https://notes0229.tistory.com/
+- 블로그 : https://notes0229.tistory.com/category/IT%20%EC%9D%B4%EA%B2%83%EC%A0%80%EA%B2%83
 </br>
 
 ## :pushpin: Projects
